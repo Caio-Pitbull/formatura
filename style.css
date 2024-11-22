@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.6;
+
+}
+
+.cabecalho{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+header{
+    background-color: aquamarine;
+    color:white;
+    padding: 10px 0;
+    
+}
